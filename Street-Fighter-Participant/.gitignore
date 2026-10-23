@@ -1,0 +1,5 @@
+gamebot-competition-master/PythonAPI/virtualenv/
+venv-tf/
+gamebot-competition-master/PythonAPI/__pycache__/
+gamebot-competition-master/single-player/config.ini
+*.zip
